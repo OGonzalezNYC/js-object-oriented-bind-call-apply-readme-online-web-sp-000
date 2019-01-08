@@ -45,4 +45,7 @@ greet.call(sally, 'Terry', 'George');
 greet.call(sally);
 
 
+greet.apply(sally, ['Terry', 'George']);
+
+
 
