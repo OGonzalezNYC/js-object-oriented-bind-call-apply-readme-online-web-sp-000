@@ -42,6 +42,7 @@ greet.call(sally, 'Terry', 'George');
 
 
 
+greet.call(sally);
 
 
 
